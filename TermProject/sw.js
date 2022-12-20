@@ -1,7 +1,7 @@
 self.addEventListener("install",e => {
     e.waitUntil(
         caches.open("static").then(cache =>{
-            return cache.addAll(["./","./src/app.css","./images/köstebek.png"]);
+            return cache.addAll(["https://yunusemreanacal.github.io/AdvancedProgrammingTechniques/TermProject/window.html","https://yunusemreanacal.github.io/AdvancedProgrammingTechniques/TermProject/src/app.css","https://yunusemreanacal.github.io/AdvancedProgrammingTechniques/TermProject/images/köstebek.png"]);
         })
     );
 });
