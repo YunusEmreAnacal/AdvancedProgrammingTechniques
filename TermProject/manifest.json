@@ -7,12 +7,12 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "/images/köstebek.png",
+            "src": "https://yunusemreanacal.github.io/AdvancedProgrammingTechniques/TermProject/images/köstebek.png",
             "sizes":"192x192",
             "type": "image/png"
         },
         {
-            "src": "/images/köstebek.png",
+            "src": "https://yunusemreanacal.github.io/AdvancedProgrammingTechniques/TermProject/images/köstebek.png",
             "sizes":"512x512",
             "type": "image/png"
         }
