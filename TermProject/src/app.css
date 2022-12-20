@@ -51,7 +51,7 @@
     width: 100%;
     height: 100%;
     content: "";
-    background: url("/images/toprak.png") center no-repeat;
+    background: url("https://yunusemreanacal.github.io/AdvancedProgrammingTechniques/TermProject/images/toprak.png") center no-repeat;
     background-size: cover;
   }
   .köstebek {
@@ -60,7 +60,7 @@
     left: 0;
     width: 100%;
     height: 5.5rem;
-    background: url("/images/köstebek.png") center no-repeat;
+    background: url("https://yunusemreanacal.github.io/AdvancedProgrammingTechniques/TermProject/images/köstebek.png") center no-repeat;
     background-size: contain;
     transition: all 0.3s ease;
   }
